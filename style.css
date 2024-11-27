@@ -1,0 +1,10 @@
+body {
+    height: 100vh;
+    background-color: rgb(36, 34, 36);
+    color: whitesmoke;
+    display: grid;
+    place-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
